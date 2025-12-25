@@ -69,3 +69,7 @@ Le dépôt est organisé comme suit :
 
 Les principes SOLID constituent une base essentielle pour la conception de logiciels robustes et évolutifs.  
 Leur application permet de réduire le couplage, d’augmenter la cohésion et de faciliter l’évolution des applications dans le temps.
+
+
+
+
